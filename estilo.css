@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(21, 160, 118);/* mudar cor de fundo*/
+    /*color: bisque; cor da letra*/
+}
+p{
+    text-align: center;
+}
+img{
+    margin: auto;
+    display: block;
+}
+
+p{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    text-align: center;
+}
+h3{
+    color: white;
+}
+
+h4{
+    color: white;
+}
+
+.mensagem{
+    text-align: center;
+}
+
