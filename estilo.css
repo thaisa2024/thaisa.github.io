@@ -1,6 +1,6 @@
 body{
-    background-color: rgb(21, 160, 118);/* mudar cor de fundo*/
-    /*color: bisque; cor da letra*/
+    background-color: rgb(21, 160, 118);
+    text-align: center;
 }
 p{
     text-align: center;
@@ -29,4 +29,13 @@ h4{
 .mensagem{
     text-align: center;
 }
-
+.enviar{
+    color:green;
+}
+button{
+    padding: 10px 20px;
+    background-color: blueviolet;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+}
